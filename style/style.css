@@ -125,6 +125,8 @@ select{
     font-size: var(--xs);
     border-right: 1px solid;
     padding-right: 8px;
+    background-color: transparent;
+    
 }
 
 .numero input{
