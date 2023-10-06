@@ -150,4 +150,12 @@ select{
         border-radius: 0;
         height: 100vh;
     }
+
+    .container figure{
+        margin: 20px auto;
+    }
+
+    .mensajes{
+        margin: 20px auto;
+    }
 }
